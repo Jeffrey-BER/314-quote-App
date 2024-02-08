@@ -1,0 +1,32 @@
+body {
+  box-sizing: border-box;
+  margin-top: 0;
+  margin: 0;
+}
+
+#header {
+  background-color: rgb(189, 211, 255);
+  height: 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+#getQuooteBtn {
+  display: inline-block;
+  height: 40px;
+  width: 100px;
+  font-size: 1 rem;
+  margin-right: 30px;
+  background-color: rgb(54, 54, 255);
+  color: white;
+  border-color: rgba(255, 255, 255, 0);
+  border-radius: 5px;
+}
+
+#mein {
+  height: 400px;
+  background-color: rgb(255, 127, 227);
+}
